@@ -1,1 +1,1 @@
-web: gunicore
+web: gunicore wsgi.py:app
